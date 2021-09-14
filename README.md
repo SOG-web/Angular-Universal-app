@@ -1,7 +1,7 @@
 # Angular-Universal-app
 
-This a web application that is built with angular universal
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
+This a web application built with angular universal that performs a crud operation. If you have been asking the question on how to use Angular Universal like Next js, the answer is here
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.5.
 
 ## Development server
 
