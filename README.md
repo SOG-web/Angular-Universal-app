@@ -1,2 +1,3 @@
 # Angular-Universal-app
- This a web application that is buildth with angular universal
+
+This a web application that is built with angular universal
